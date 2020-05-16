@@ -10,6 +10,7 @@ Being a data scientist is about applying knowledge about statistics, software en
 ## What do you see as the major duties and/or knowledge areas?
 
 The major duties of a data scientist include:
+
 - Understanding of how data relates to the problem at hand
 - Data cleansing and preparation
 - Statistical model training and validation
