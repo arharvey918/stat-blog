@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Avy Harvey is a software developer who currently works at SAS in Cary, NC.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My primary work is implementing distributed computer vision algorithms, though other responsibilities include DevOps, machine learning, and full-stack web development.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+arharvey AT ncsu DOT edu
