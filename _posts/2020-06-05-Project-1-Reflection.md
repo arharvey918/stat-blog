@@ -32,3 +32,5 @@ I felt that I was better able to make inference from the graphs than from the nu
 ## Website
 
 My project's website is available here: <https://jubilant.me/st-558-project-1/>.
+
+The code is available here: <https://github.com/arharvey918/st-558-project-1/>.
